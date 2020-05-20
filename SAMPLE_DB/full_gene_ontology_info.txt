@@ -1,0 +1,1 @@
+ncbi tax id	string id	Gene Ontology ID	category	description
